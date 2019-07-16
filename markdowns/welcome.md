@@ -6,6 +6,8 @@ The language is really simple to learn, as there are only 8 instructions. It is 
 
 However,programs are said to be a bit complex. The goal of this playground is to demonstrate that they aren't !
 
+In case you're wondering : the cover image is the source code of a BF interpreter, written in BF ^^. This will be part of a future playground :-)
+
 # Let's start
 
 BF is executed on a memory array. By default, it's a 30k-cell-long array of 8-bit integers, but some other implementations are more flexible.
