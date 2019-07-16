@@ -4,3 +4,8 @@ plan:
   statement: markdowns/welcome.md
 - title: Sum numbers
   statement: markdowns/maths/sum.md
+- title: Subtract numbers
+  statement: markdowns/maths/subtract.md
+- title: Move (pseudo-copy) value
+  statement: markdowns/mem_ops/move.md
+
