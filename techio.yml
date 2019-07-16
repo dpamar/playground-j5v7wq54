@@ -16,4 +16,6 @@ plan:
   statement: markdowns/logic/if.md
 - title: If true, then do, else do something else
   statement: markdowns/logic/if_then_else.md
+- title: Evaluate Not() function
+  statement: markdowns/logic/not.md
 
