@@ -8,4 +8,6 @@ plan:
   statement: markdowns/maths/subtract.md
 - title: Move (pseudo-copy) value
   statement: markdowns/mem_ops/move.md
+- title: Copy value
+  statement: markdowns/mem_ops/copy.md
 
