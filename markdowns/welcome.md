@@ -27,10 +27,15 @@ Finally, there are 8 instructions:
 In BF, the easiest code sample is not hello world, it's a BF implementation of Unix `cat` command.
 
 cat copies input chars to output. In BF, we just have to
+
 `,       read first char
 
 .       print it
+
 [       while not null
+
    ,    read next char
+
    .    print it
+
 ]       loop if needed`
