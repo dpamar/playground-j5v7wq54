@@ -2,3 +2,5 @@ title: Custom Template
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+- title: Sum numbers
+  statement: markdowns/maths/sum.md
