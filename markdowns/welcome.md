@@ -28,14 +28,9 @@ In BF, the easiest code sample is not hello world, it's a BF implementation of U
 
 cat copies input chars to output. In BF, we just have to
 
-`,       read first char
-
+```,       read first char
 .       print it
-
 [       while not null
-
    ,    read next char
-
    .    print it
-
-]       loop if needed`
+]       loop if needed```
