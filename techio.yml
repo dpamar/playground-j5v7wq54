@@ -12,4 +12,8 @@ plan:
   statement: markdowns/mem_ops/copy.md
 - title: Multiplication
   statement: markdowns/maths/mult.md
+- title: If true, then do
+  statement: markdowns/logic/if.md
+- title: If true, then do, else do something else
+  statement: markdowns/logic/if_then_else.md
 
