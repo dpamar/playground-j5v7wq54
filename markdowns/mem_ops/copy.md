@@ -2,7 +2,7 @@
 
 Copying a value is a destructive operation. The initial value is deleted while 2 copies are created.
 
-Optionnally, an extra "Move" operation can be used to move one of the 2 copies at source location, to create a "conservative copy illusion".
+Optionally, an extra "Move" operation can be used to move one of the 2 copies at source location, to create a "conservative copy illusion".
 
 # Let's start
 
