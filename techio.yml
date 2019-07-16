@@ -18,4 +18,6 @@ plan:
   statement: markdowns/logic/if_then_else.md
 - title: Evaluate Not() function
   statement: markdowns/logic/not.md
+- title: Evaluate Eq() and Neq() functions
+  statement: markdowns/logic/eq_neq.md
 
