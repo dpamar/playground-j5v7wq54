@@ -32,4 +32,4 @@ cat copies input chars to output. In BF, we just have to
 [       while not null
    ,    read next char
    .    print it
-]       loop if needed
+]       loop if needed`
