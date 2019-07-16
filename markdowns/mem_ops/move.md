@@ -13,9 +13,11 @@ It's like sum : we have A, 0 and we want 0, 0+A=A
 # Process
 
 * while A is not null
+  * _invariant: A cell + next cell = A_
   * decrease A
   * increase target
 * loop
+* _A cell = 0, next cell = A - 0 = A_
 
 # Code
 ```

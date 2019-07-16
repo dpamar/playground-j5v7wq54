@@ -15,9 +15,11 @@ In order to compute A+B, we have to add 1 to A, B times
 # Process
 
 * while B is not null
+  * _invariant: A cell + B cell = A+B_ 
   * decrease B
   * increase A
 * loop
+* _B cell = 0, A cell = A+B - 0 = A+B_ 
 
 # Code
 ```
