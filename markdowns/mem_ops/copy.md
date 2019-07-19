@@ -30,7 +30,7 @@ Optionally, an extra "Move" operation can be used to move one of the 2 copies at
 ]    loop
 ```
 
-Minified version
+# Minified version
 ```
 [->+>+<<]
 ```

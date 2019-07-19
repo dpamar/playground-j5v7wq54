@@ -44,7 +44,7 @@ The Eq() function is a bit more tricky, it combines Neq and Not functions.
 <     go back to cell A
 ```
 
-Minified version
+# Minified version
 ```
 >[-<->]<
 ```
@@ -66,7 +66,7 @@ Minified version
 <<         go back to cell A
 ```
 
-Minified version
+# Minified version
 ```
 >>+<[-<->]<[[-]>>-<<]>>[<<+>>-]<<
 ```

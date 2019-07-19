@@ -28,7 +28,7 @@ It's like sum : we have A, 0 and we want 0, 0+A=A
 ]    loop
 ```
 
-Minified version
+# Minified version
 ```
 [->+<]
 ```

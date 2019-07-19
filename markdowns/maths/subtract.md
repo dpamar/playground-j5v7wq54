@@ -26,7 +26,7 @@ Like we did for addition : in order to compute A-B, we have to subtract 1 to A, 
 ]    loop
 ```
 
-Minified version
+# Minified version
 ```
 [-<->]
 ```

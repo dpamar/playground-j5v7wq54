@@ -44,7 +44,7 @@ Again, we want to end up at the same memory position whatever the path we choose
 <          optionall, go back to A
 ```
 
-Minified version
+# Minified version
 ```
 >+<[...[-]>-<]>[...-]<
 ```

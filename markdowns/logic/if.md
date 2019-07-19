@@ -28,7 +28,7 @@ And ideally, regardless of the boolean value, we want to end up at the same memo
 ]     loop (i.e. stop)
 ```
 
-Minified version
+# Minified version
 ```
 [...[-]]
 ```

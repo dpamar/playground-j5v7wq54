@@ -30,7 +30,7 @@ In order to compute A+B, we have to add 1 to A, B times
 ]    loop
 ```
 
-Minified version
+# Minified version
 ```
 [-<+>]
 ```

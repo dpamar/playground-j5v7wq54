@@ -39,7 +39,7 @@ This allows us to define this operation using the previous if/then/else snippet
 <      go back to cell A
 ```
 
-Minified version
+# Minified version
 ```
 >+<[[-]>-<]>[<+>-]<
 ```
