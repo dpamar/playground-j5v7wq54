@@ -32,16 +32,15 @@ cat copies input chars to output. In BF, we just have to
 
 ```
 1 ,       read first char
-2 .       print it
-3 [       while not null (go to 7 if null)
+2 [       while not null (go to 6 if null)
+3    .    print char
 4    ,    read next char
-5    .    print it
-6 ]       loop if needed (go back to 3) or go to 7
-7 nothing
+5 ]       loop if needed (go back to 2) or go to 6
+6 nothing
 ```
 
 Note : any char other than the 8 instructions is considered as a comment. It's really easier to read this source code than the same one-line version
 ```
-,.[,.]
+,[.,]
 ```
 
